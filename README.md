@@ -1,3 +1,3 @@
 # IHM_Lab01
 
-NOMBRE: Lourdes Angulo n
+NOMBRE: Lourdes Angulo Rentería
